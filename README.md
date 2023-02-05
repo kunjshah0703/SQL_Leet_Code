@@ -6,3 +6,5 @@ and the employee name does not start with the character 'M'. The bonus of an emp
 Input : ![image](https://user-images.githubusercontent.com/72154374/216803307-cf11ffea-7101-40c7-ae71-2985929017a8.png)
 
 Output : ![image](https://user-images.githubusercontent.com/72154374/216803326-dbad9e5a-df7a-419f-b1da-849ec738823e.png)
+
+Solution file : LeetCode_Special_Bonus.sql
