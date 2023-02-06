@@ -25,4 +25,4 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/216886
 
 Output Table : ![image](https://user-images.githubusercontent.com/72154374/216886736-332669d1-b19c-4ffe-acc7-1e2684618558.png)
 
-Solution file : 
+Solution file : LeetCode_Delete_Duplicate_Emails.sql
