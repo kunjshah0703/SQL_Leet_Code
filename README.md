@@ -33,4 +33,4 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/216889
 
 Output Table : ![image](https://user-images.githubusercontent.com/72154374/216889568-8b4bd554-5362-4271-b4c1-a1cba41f0321.png)
 
-Solution file : 
+Solution file : LeetCode_Fix_Name_In_Table.sql
