@@ -26,3 +26,11 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/216886
 Output Table : ![image](https://user-images.githubusercontent.com/72154374/216886736-332669d1-b19c-4ffe-acc7-1e2684618558.png)
 
 Solution file : LeetCode_Delete_Duplicate_Emails.sql
+
+Q.4 Write an SQL query to fix the names so that only the first character is uppercase and the rest are lowercase. Return the result table ordered by user_id.
+
+Input Table : ![image](https://user-images.githubusercontent.com/72154374/216889523-a7b9bab3-09f2-4761-ab9c-9e9f214479c0.png)
+
+Output Table : ![image](https://user-images.githubusercontent.com/72154374/216889568-8b4bd554-5362-4271-b4c1-a1cba41f0321.png)
+
+Solution file : 
