@@ -16,3 +16,13 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/216805
 Output Table : ![image](https://user-images.githubusercontent.com/72154374/216805592-443aa39f-6112-45b5-96cd-997de6536cd2.png)
 
 Solution file : LeetCode_Swap_Salary.sql
+
+Q.3 Write an SQL query to delete all the duplicate emails, keeping only one unique email with the smallest id. Note that you are supposed to write a
+DELETE statement and not a SELECT one. After running your script, the answer shown is the Person table. The driver will first compile and run your piece of code 
+and then show the Person table. The final order of the Person table does not matter.
+
+Input Table : ![image](https://user-images.githubusercontent.com/72154374/216886668-faa99194-d9a6-437d-988d-5131c7859278.png)
+
+Output Table : ![image](https://user-images.githubusercontent.com/72154374/216886736-332669d1-b19c-4ffe-acc7-1e2684618558.png)
+
+Solution file : 
