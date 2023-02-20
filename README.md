@@ -34,3 +34,11 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/216889
 Output Table : ![image](https://user-images.githubusercontent.com/72154374/216889568-8b4bd554-5362-4271-b4c1-a1cba41f0321.png)
 
 Solution file : LeetCode_Fix_Name_In_Table.sql
+
+Q.5 Write an SQL query to find for each date the number of different products sold and their names. The sold products names for each date should be sorted lexicographically. Return the result table ordered by sell_date.
+
+Input Table : ![image](https://user-images.githubusercontent.com/72154374/220033901-9e7ee0cc-8fd1-4f73-9957-9e97c415416d.png)
+
+Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220034057-06cdc02e-39f4-43ac-874c-5dc3c783f3c9.png)
+
+Solution file : LeetCode_GroupSoldProducts_ByDate.sql
