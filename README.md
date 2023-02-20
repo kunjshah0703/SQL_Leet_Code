@@ -42,3 +42,11 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/220033
 Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220034057-06cdc02e-39f4-43ac-874c-5dc3c783f3c9.png)
 
 Solution file : LeetCode_GroupSoldProducts_ByDate.sql
+
+Q.6 : Write an SQL query to report the patient_id, patient_name and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix. Return the result table in any order.
+
+Input Table : ![image](https://user-images.githubusercontent.com/72154374/220038444-876ce277-9367-4ead-a5f0-98b3d4e7b2cb.png)
+
+Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220038559-229fe1e0-d60e-411c-80a3-77e61a18d961.png)
+
+Solution File : Leetcode_PatientWithCondition.sql
