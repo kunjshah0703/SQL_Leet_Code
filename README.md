@@ -50,3 +50,14 @@ Input Table : ![image](https://user-images.githubusercontent.com/72154374/220038
 Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220038559-229fe1e0-d60e-411c-80a3-77e61a18d961.png)
 
 Solution File : Leetcode_PatientWithCondition.sql
+
+Q.7 Write an SQL query to report the IDs of all the employees with missing information. The information of employee is missing if : 
+-- The employee's name is missing, or
+-- The employee's salary is missing.
+Return the result table ordered by employee_id in ascending order.
+
+Input Tables : ![image](https://user-images.githubusercontent.com/72154374/220256434-66318084-8ec2-422e-bb43-1d67eb514ca2.png)
+
+Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220256505-e5c59795-e897-42a0-9316-77d942c650f7.png)
+
+Solution File : LeetCode_MissingInformation.sql
