@@ -61,3 +61,11 @@ Input Tables : ![image](https://user-images.githubusercontent.com/72154374/22025
 Expected Output : ![image](https://user-images.githubusercontent.com/72154374/220256505-e5c59795-e897-42a0-9316-77d942c650f7.png)
 
 Solution File : LeetCode_MissingInformation.sql
+
+Q.8 Write an SQL Query to rearrange the Products table so that each row has product_id, store, price. If a product is not available in a store, do not include a row with that product_id and store combination in the result table.
+
+Input Table : ![image](https://user-images.githubusercontent.com/72154374/220260026-a5339340-22e3-4a3a-9b7c-fa74ac197e9e.png)
+
+Output Table : ![image](https://user-images.githubusercontent.com/72154374/220259975-756fd7b6-fa7e-4a0e-84fd-b7ad1a0f4fd0.png)
+
+Solution File : LeetCodeRearrangeProducts.sql
